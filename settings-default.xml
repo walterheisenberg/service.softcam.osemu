@@ -1,0 +1,9 @@
+<settings>
+    <setting id="RESTART_ON_RESUME" value="false" />
+    <setting id="WAIT_FOR_NET" value="false" />
+    <setting id="WAIT_FOR_NET_TIME" value="1" />
+    <setting id="OSEMU_USER" value="osemu" />
+    <setting id="OSEMU_PASSWORD" value="osemu" />
+	<setting id="OSEMU_PORT" value="11000" />
+	<setting id="OSEMU_SOFTCAMKEY" value="/storage/" />
+</settings>

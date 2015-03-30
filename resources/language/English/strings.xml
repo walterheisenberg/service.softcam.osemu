@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<string id="1000">General</string>
+	<string id="1011">Restart on suspend / resume</string>
+	<string id="1012">Wait for network</string>
+	<string id="1013">time (s)</string>
+        <string id="1024">Username</string>
+        <string id="1025">Password</string> 
+        <string id="1026">Port</string>
+		<string id="1027">SoftCam.key Folder</string>
+
+</strings>
